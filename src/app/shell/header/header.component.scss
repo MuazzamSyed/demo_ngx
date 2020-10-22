@@ -1,0 +1,15 @@
+@import "src/theme/theme-variables";
+
+.navbar {
+  box-shadow: 0px 2px 5px #7070708e;
+}
+
+.nav-link.dropdown-toggle {
+  cursor: pointer;
+}
+
+.logo {
+  background: url("../header/logo.png") no-repeat;
+  height: 40px;
+  width: 100px;
+}
