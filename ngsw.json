@@ -1,0 +1,104 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603365391346,
+  "index": "https://github.com/MuazzamSyed/demo_ngx.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/MuazzamSyed/demo_ngx.git/4.eaa3eccb3e62be0e02cd.js",
+        "https://github.com/MuazzamSyed/demo_ngx.git/favicon.ico",
+        "https://github.com/MuazzamSyed/demo_ngx.git/index.html",
+        "https://github.com/MuazzamSyed/demo_ngx.git/main.3e8b8b8b73e1ea4eb5a0.js",
+        "https://github.com/MuazzamSyed/demo_ngx.git/manifest.webmanifest",
+        "https://github.com/MuazzamSyed/demo_ngx.git/polyfills.5c8033dfb7c3b4aa1601.js",
+        "https://github.com/MuazzamSyed/demo_ngx.git/runtime.47c9fca9a08b18a9895e.js",
+        "https://github.com/MuazzamSyed/demo_ngx.git/styles.cb48cfa04b7976ccfa34.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://github.com/MuazzamSyed/demo_ngx.git/apple-touch-icon.png",
+        "https://github.com/MuazzamSyed/demo_ngx.git/assets/ngx-rocket-logo.png",
+        "https://github.com/MuazzamSyed/demo_ngx.git/assets/ngx-rocket-logo@192.png",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.0fea24969112a781acd2.eot",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.e33e2cf6e02cac2ccb77.svg",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.ec82f282c7f54b637098.ttf",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.06b9d19ced8d17f3d5cb.svg",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.08f9891a6f44d9546678.eot",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1008b5226941c24f4468.woff2",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1069ea55beaa01060302.woff",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1495f578452eb676f730.ttf",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.10ecefc282f2761808bf.ttf",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.371dbce0dd46bd4d2033.svg",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.3a24a60e7f9c6574864a.eot",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+        "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.46fdbd2d897f8824e63c.woff",
+        "https://github.com/MuazzamSyed/demo_ngx.git/logo.cc3a12d28b8f2d52709a.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://github.com/MuazzamSyed/demo_ngx.git/4.eaa3eccb3e62be0e02cd.js": "3b6b8b826b032358fa6947c738b5e72d31a9547e",
+    "https://github.com/MuazzamSyed/demo_ngx.git/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "https://github.com/MuazzamSyed/demo_ngx.git/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://github.com/MuazzamSyed/demo_ngx.git/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.0fea24969112a781acd2.eot": "c719f4375679ee58e156434f9ba9727be669cf07",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.c967a94cfbe2b06627ff.woff2": "f726c4275bb494a045fde059175f072de06c01df",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.dc2cbadd690e1d4b2c9c.woff": "a42ac4a94f4e0e9333cdb1b2fb6c13c0ae690ff2",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.e33e2cf6e02cac2ccb77.svg": "69a0ff79a9d93a451e9fa90bd79ae7008d2a9da5",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-brands-400.ec82f282c7f54b637098.ttf": "9b49c6c5b0cbdef158ae31b2a4e4814555408389",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.06b9d19ced8d17f3d5cb.svg": "c41a688158d577e3a2738137992d49b05b17ab8f",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.08f9891a6f44d9546678.eot": "2baa9a8aa68f1d2d4712b3c7205f9105aaf21879",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1008b5226941c24f4468.woff2": "fb9648469530a05fa9aac80e47d4d6960472a242",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1069ea55beaa01060302.woff": "26afc29d39ab9fac6d0b607be7e76db093ff7c3a",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-regular-400.1495f578452eb676f730.ttf": "d64e58981a419de52bac110c979887d34e366135",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.10ecefc282f2761808bf.ttf": "d537bf4cc7273ddb3fd754d53f2b241aeafaefe7",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.371dbce0dd46bd4d2033.svg": "36de6a298660ed3feaab37900f7b28c3e981d80e",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.3a24a60e7f9c6574864a.eot": "c39b89f7fa7b66931ab02a54002db5ffcbff206c",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
+    "https://github.com/MuazzamSyed/demo_ngx.git/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
+    "https://github.com/MuazzamSyed/demo_ngx.git/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://github.com/MuazzamSyed/demo_ngx.git/index.html": "5c738945227ebd5beff823f53204f9700e0ffa5e",
+    "https://github.com/MuazzamSyed/demo_ngx.git/logo.cc3a12d28b8f2d52709a.png": "9b78277ed58adb7211d28c37e08b5dc189390188",
+    "https://github.com/MuazzamSyed/demo_ngx.git/main.3e8b8b8b73e1ea4eb5a0.js": "650a03472f754df856aba5ccd83bacc667f59bc5",
+    "https://github.com/MuazzamSyed/demo_ngx.git/manifest.webmanifest": "303fdf400a36ddf6419ce9c38c5998299c32690b",
+    "https://github.com/MuazzamSyed/demo_ngx.git/polyfills.5c8033dfb7c3b4aa1601.js": "dbc502f030c7bb83c7caa1feee7aff990831f7d9",
+    "https://github.com/MuazzamSyed/demo_ngx.git/runtime.47c9fca9a08b18a9895e.js": "d312a9f434c18073e655bee0c4a2c8926638bfaa",
+    "https://github.com/MuazzamSyed/demo_ngx.git/styles.cb48cfa04b7976ccfa34.css": "0140a6e6c1cd5c00017e7b9886ae9167a77f39c4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
